@@ -18,8 +18,8 @@ public class OnBording extends AppCompatActivity {
     TabLayout tabIndicator;
     Button nxtBtn;
     int postion=0;
-    int girlImage[]={R.drawable.girl1,R.drawable.girl2,R.drawable.girl3};
-    String heading[]={"Heading1","Heading2","Heading3"};
+    int girlImage[] = {R.drawable.girl3 ,R.drawable.girl2,R.drawable.girl3};
+    String heading[] = {"First  On boarding ","Heading2"," Third On Boarding"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
