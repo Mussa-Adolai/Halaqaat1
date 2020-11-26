@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Halaqaat</string>
+    <string name="password"> Password</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="new_SignIn">New ? Sign Up</string>
+    <string name="false_password">Please Enter A Valid Password</string>
+    <string name="false_user_name"> Please Enter A Valid User Name</string>
+    <string name="login_txt">Login</string>
+    <string name="sign_up_txt">Sign Up</string>
+    <string name="Ayah" translatable="false"></string>
+    <string name="hadeeth" translatable="false"></string>
+    <string name="quotation" translatable="false"></string>
+    <string name="log_out">Logout</string>
+    <string name="ok">Ok</string>
+    <string name="enter_name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="Email">Email Address</string>
+    <string name="gender">Gender</string>
+    <string name="country">Country</string>
+    <string name="category">Categories</string>
+    <string name="scholar">Scholars</string>
+    <string name="invalid_enter">Invalid Username or Password</string>
+    <string name="user_name"> Username</string>
+    <string name="StartOnbording">Start</string>
+    <string name="nxtBtn">Next</string>
+
+
+</resources>

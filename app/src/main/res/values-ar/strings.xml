@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">كلمة المرور</string>
+    <string name="new_SignIn">مستخدم جديد  ؟ أنشئ حساب</string>
+    <string name="forgot">نسيت كلمة المرور</string>
+    <string name="false_password">رجاءا أدخل كلمة مرور صحيحة</string>
+    <string name="false_user_name">رجاءا أدخل  اسم مستخدم صحيح</string>
+    <string name="login_txt">تسجيل الدخول</string>
+    <string name="sign_up_txt">إنشاء حساب</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="ok">موافق</string>
+    <string name="enter_name">أدخل الأسم</string>
+    <string name="phone">أدخل رقم الهاتف</string>
+    <string name="Email">أدخل عنوان البريد</string>
+    <string name="gender">الجنس</string>
+    <string name="country">اختر الدولة</string>
+    <string name="category">الأقسام</string>
+    <string name="scholar">المشائخ</string>
+    <string name="invalid_enter">اسم المسخدم أو كلمة المرور غير صحيحة</string>
+    <string name="user_name">أدخل اسم المسخدم</string>
+    <string name="StartOnbording">ابدأ</string>
+    <string name="nxtBtn">التالي</string>
+    <string name="app_name">حلقات</string>
+</resources>
